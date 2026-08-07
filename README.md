@@ -107,7 +107,7 @@ Hi, I'm Lujala Maharjan, a Chartered Accountant and aspiring financial analyst p
     </p>
   </li>
 </ul>
-
+<!--
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
@@ -137,7 +137,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 -->
-
+-->
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
@@ -161,7 +161,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
      </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Financial_Analyst-Lujala_Maharjan_Resume.pdf">Download my CV</a></td>
     </tr>
   </tbody>
 </table>
