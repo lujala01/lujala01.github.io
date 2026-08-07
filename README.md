@@ -1,99 +1,112 @@
-<!--Section 1: Introduction -->
-## ABOUT ME
-
+<!-- Section 1: Introduction -->
+## 👋 About Me
 <p align="justify">
-Hi, I'm Lujala Maharjan 👋, a Chartered Accountant and aspiring financial analyst passionate about turning raw data into actionable insights. With hands-on experience across accounting, auditing, financial analysis, consulting, and data analysis, I help businesses uncover opportunities, solve challenges, and drive sustainable growth.
+Hi, I'm Lujala Maharjan, a Chartered Accountant and aspiring financial analyst passionate about turning raw data into actionable insights. With hands-on experience across accounting, auditing, financial analysis, consulting, and data analysis, I help businesses uncover opportunities, solve challenges, and drive sustainable growth.
 </p>
 
-### Education
-Master of Science: Business Analytics                                           
-*University of South Dakota - Vermillion SD* 
--	Member, Beta Gamma Sigma 
+---
 
-Bachelor of Business Studies (BBS): Finance                                      
-*Tribhuvan University – Kathmandu*
+## 🎓 Education
 
-### Certifications & Professional Development
-CFA Level I Candidate: Expected Exam Date: November 2026                      
+**Master of Science, Business Analytics**
+*University of South Dakota — Vermillion, SD*
+- Member, Beta Gamma Sigma
+
+**Bachelor of Business Studies (BBS), Finance**
+*Tribhuvan University — Kathmandu, Nepal*
+
+---
+
+## 📜 Certifications & Professional Development
+
+**CFA Level I Candidate** — *Expected Exam Date: November 2026*
 *CFA Institute*
 - CFA Access Scholarship Recipient
 
-Chartered Accountant (C.A)                                      
-*The Institute of Chartered Accountants of Nepal - Kathmandu, Nepal*
+**Chartered Accountant (C.A.)**
+*The Institute of Chartered Accountants of Nepal — Kathmandu, Nepal*
 - Awarded BK Agrawal Gold Medal
 
-## Professional Experience
-Financial Analyst | SwiftFin Global Consulting - Kathmandu, Nepal 
+---
 
+## 💼 Professional Experience
+
+### Financial Analyst | SwiftFin Global Consulting — Kathmandu, Nepal
 <ul>
   <li>
     <p align="justify">
-    Leveraged Workday Adaptive Planning and Advanced Excel to prepare monthly operating reports, 
-    analyze financial statements and visualize KPI dashboards, supporting financial planning and 
-    reporting decisions for a leading multi-site healthcare organization.
+    Leveraged Workday Adaptive Planning and advanced Excel to prepare monthly operating reports, analyze financial statements, and build KPI dashboards, supporting financial planning and reporting decisions for a leading multi-site healthcare organization.
     </p>
   </li>
   <li>
     <p align="justify">
-    Processed and reconciled 1000+ vendor invoices in Coupa across multiple clinic locations, 
-    ensuring accurate expense allocation, cost center coding and compliance with financial procedures.
+    Processed and reconciled 1,000+ vendor invoices in Coupa across multiple clinic locations, ensuring accurate expense allocation, cost center coding, and compliance with financial procedures.
     </p>
   </li>
   <li>
     <p align="justify">
-    Collaborated with cross-functional departments to perform comprehensive analysis, 
-    identifying cost optimization opportunities that resulted in 11% cost savings.
+    Collaborated with cross-functional departments to perform comprehensive financial analysis, identifying cost optimization opportunities that delivered 11% in cost savings.
     </p>
   </li>
   <li>
     <p align="justify">
-    Built a workforce tracking and headcount reporting model to strengthen budgetary accuracy 
-    and support payroll and operating plan reporting.
+    Built a workforce tracking and headcount reporting model to strengthen budgetary accuracy and support payroll and operating plan reporting.
     </p>
   </li>
 </ul>
 
-Associate BC Functional Consultant |   Dogma Group - Kathmandu, Nepal                      
-- Documented project requirements using diagrams and workflows by leveraging Visio and MS Office Suite.
-- Facilitated system testing, data migration and validation processes, ensuring data integrity across systems.
-- Developed user guides for in-house payroll processing software, improving operational efficiency.
-
-Audit Associate       |   B.R.S. Neupane & Co. - Kathmandu, Nepal
+### Associate BC Functional Consultant | Dogma Group — Kathmandu, Nepal
 <ul>
   <li>
     <p align="justify">
-     Performed account reconciliations across cash, fixed assets, receivables, payables, and cash balances ensuring accuracy      and compliance.
+    Documented project requirements using diagrams and workflows by leveraging Visio and MS Office Suite.
     </p>
-    </li>
-   <li>
-    <p align="justify">
-Delivered 10 audit reports to management identifying internal control weaknesses and compliance gaps, providing recommendations that strengthened governance.
-    </p>
-   </li>
-  <li>
-  <p align="justify">
-Prepared financial statements for a multinational manufacturing company during its first- time adoption of
-International Financial Reporting Standards (IFRS).
-  </p>
   </li>
-   <li>
+  <li>
     <p align="justify">
-Managed the preparation and review of quarterly and annual financial reports, ensuring accuracy and
-compliance with applicable financial reporting frameworks.
+    Facilitated system testing, data migration, and validation processes, ensuring data integrity across systems.
     </p>
-   </li>
-   <li>
+  </li>
+  <li>
     <p align="justify">
-Conducted substantive and compliance testing on journal entries, fixed assets, receivable, payables and cash balances, ensuring accuracy and compliance. 
+    Developed user guides for in-house payroll processing software, improving operational efficiency.
     </p>
-   </li>
-   <li>
-    <p align="justify">
-Supervised an audit team of 5+ members across concurrent engagements, coordinating staff assignments, reviewing work quality and ensuring timely delivery across multiple simultaneous engagements.
-    </p>
-   </li>
+  </li>
 </ul>
 
+### Audit Associate | B.R.S. Neupane & Co. — Kathmandu, Nepal
+<ul>
+  <li>
+    <p align="justify">
+    Performed account reconciliations across cash, fixed assets, receivables, and payables, ensuring accuracy and compliance.
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+    Delivered 10 audit reports to management identifying internal control weaknesses and compliance gaps, providing recommendations that strengthened governance.
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+    Prepared financial statements for a multinational manufacturing company during its first-time adoption of International Financial Reporting Standards (IFRS).
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+    Managed the preparation and review of quarterly and annual financial reports, ensuring accuracy and compliance with applicable financial reporting frameworks.
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+    Conducted substantive and compliance testing on journal entries, fixed assets, receivables, payables, and cash balances, ensuring accuracy and compliance.
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+    Supervised an audit team of 5+ members across concurrent engagements, coordinating staff assignments, reviewing work quality, and ensuring timely delivery.
+    </p>
+  </li>
+</ul>
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
