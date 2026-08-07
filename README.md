@@ -107,13 +107,16 @@ Hi, I'm Lujala Maharjan, a Chartered Accountant and aspiring financial analyst p
     </p>
   </li>
 </ul>
-<!--
+
+
+---
+
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
-
+<!--
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**3 Statement Financial Modeling**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -137,7 +140,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 -->
--->
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
