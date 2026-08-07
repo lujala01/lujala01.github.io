@@ -116,14 +116,16 @@ Hi, I'm Lujala Maharjan, a Chartered Accountant and aspiring financial analyst p
 
 *A glimpse of some of the projects I've been working on.*
 
-**3 Employee Attrition Prediction**
+**Employee Attrition Prediction**
 
 <p indent="justify">
+  
 Built and compared six classification models (logistic regression, decision tree, random forest, gradient boosting, SVM, and neural network) in Python to predict employee attrition, selecting the best model based on AUC score. Identified key attrition drivers, including overtime, travel frequency, demographics, and education level through feature importance analysis, informing data-driven workforce retention strategies.
-</p>
+  </p>
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
+[Project Link](https://github.com/lujala01/Data_Analysis_Project/blob/main/HR_Attrition_Classification.ipynb
+)
+<!--
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
