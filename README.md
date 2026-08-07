@@ -24,13 +24,19 @@ Chartered Accountant (C.A)
 
 ## Professional Experience
 Financial Analyst | SwiftFin Global Consulting - Kathmandu, Nepal 
-<p indent="justify">
-  
-- Leveraged Workday Adaptive Planning and Advanced Excel to prepare monthly operating reports, analyze financial statements and visualize KPI dashboards, supporting financial planning and reporting decisions for a leading multi-site healthcare organization.
-- Processed and reconciled 1000+ vendor invoices in Coupa across multiple clinic locations, ensuring accurate expense allocation, cost center coding and compliance with financial procedures.
-- Collaborated with cross-functional departments to perform comprehensive analysis, identifying cost optimization opportunities that resulted in 11% cost savings.
-- Built a workforce tracking and headcount reporting model to strengthen budgetary accuracy and support payroll and operating plan reporting.
-</p>  
+<ul class-"justified-list")
+  <li>  
+Leveraged Workday Adaptive Planning and Advanced Excel to prepare monthly operating reports, analyze financial statements and visualize KPI dashboards, supporting financial planning and reporting decisions for a leading multi-site healthcare organization.
+    </li>
+  <li>
+Processed and reconciled 1000+ vendor invoices in Coupa across multiple clinic locations, ensuring accurate expense allocation, cost center coding and compliance with financial procedures.
+    </li>
+  <li>
+Collaborated with cross-functional departments to perform comprehensive analysis, identifying cost optimization opportunities that resulted in 11% cost savings.
+    </li>
+  <li>
+Built a workforce tracking and headcount reporting model to strengthen budgetary accuracy and support payroll and operating plan reporting.
+  </li>
 
 Associate BC Functional Consultant |   Dogma Group - Kathmandu, Nepal                      
 - Documented project requirements using diagrams and workflows by leveraging Visio and MS Office Suite.
