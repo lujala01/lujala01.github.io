@@ -157,8 +157,12 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="[https://linkedin.com/in/ca-lujala-maharjan]">The things I do daily on LinkedIn</a></td>
+      <td><a href="[https://linkedin.com/in/ca-lujala-maharjan/]">The things I do daily on LinkedIn</a></td>
      </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
   </tbody>
 </table>
 
