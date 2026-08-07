@@ -1,0 +1,6 @@
+.justified-list li {
+  text-align: justify;
+  text-justify : inter-word;
+  margin-bottom: 10px;
+  padding-right: 15px;
+}
