@@ -118,16 +118,22 @@ Hi, I'm Lujala Maharjan, a Chartered Accountant and aspiring financial analyst p
 
 **Employee Attrition Prediction**
 
-<p indent="justify">
-  
-Built and compared six classification models (logistic regression, decision tree, random forest, gradient boosting, SVM, and neural network) in Python to predict employee attrition, selecting the best model based on AUC score. Identified key attrition drivers, including overtime, travel frequency, demographics, and education level through feature importance analysis, informing data-driven workforce retention strategies.
-  </p>
+<p align="justify">
+  Built and compared six classification models (logistic regression, decision tree, random forest, gradient boosting, SVM, and neural network) in Python to predict employee attrition, selecting the best model based on AUC score. Identified key attrition drivers, including overtime, travel frequency, demographics, and education level through feature importance analysis, informing data-driven workforce retention strategies.
+</p>
 
 [Project Link](https://github.com/lujala01/Data_Analysis_Project/blob/main/HR_Attrition_Classification.ipynb
 )
 
-** State & Year Hospital Financial & Operations Dashboard **
-![image] (State & Year Hospital Financial & Operations Dashboard)
+
+**Interactive U.S. Hospital Financial Dashboard (2020–2024)**
+
+![image](Hospital_Performance_Analysis_Dashboard.png)
+
+<p align="justify">
+  Developed a comprehensive Excel dashboard analyzing revenue, operating costs, and profitability metrics across more than 5,000 hospitals nationwide. Built upon an engineered dataset of 100+ variables sourced from the Healthcare Cost Report Information System (HCRIS), the tool enables executive leadership to seamlessly toggle between health system, state, and individual hospital-level performance to evaluate reimbursement risks, cost efficiency, and market positioning.
+
+</p>
 
 <!--
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
