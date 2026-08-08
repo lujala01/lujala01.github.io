@@ -168,7 +168,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>Vermillion, SD, USA</td>
+      <td> USA</td>
     </tr>
     <tr>
       <td>🌐</td>
