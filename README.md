@@ -125,6 +125,10 @@ Built and compared six classification models (logistic regression, decision tree
 
 [Project Link](https://github.com/lujala01/Data_Analysis_Project/blob/main/HR_Attrition_Classification.ipynb
 )
+
+** State & Year Hospital Financial & Operations Dashboard **
+![image] (State & Year Hospital Financial & Operations Dashboard)
+
 <!--
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
